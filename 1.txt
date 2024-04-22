@@ -12,8 +12,8 @@ requiring administrator privileges.
 
 .EXAMPLE
 
-PS>Import-Module .\Invoke-BSOD.ps1
-PS>Invoke-BSOD
+PS>Import-Module .\SHOWTIME.ps1
+PS>SHOWTIME
    (Blue Screen Incoming...)
 
 #>
@@ -56,8 +56,8 @@ what type of dump you're going to generate, and where it will be.
 
 .EXAMPLE
 
-PS>Import-Module .\Invoke-BSOD.ps1
-PS>Invoke-BSOD
+PS>Import-Module .\SHOWTIME.ps1
+PS>SHOWTIME
    (Blue Screen Incoming...)
 
 #>
